@@ -1,5 +1,5 @@
 ﻿
-# AmbientLightSensorLCD
+## AmbientLightSensorLCD
 
 This project deals with adjusting the brightness of a display according to the ambient light of the
 surrounding. This is needed for smart energy saving where a display is running at a manually set
